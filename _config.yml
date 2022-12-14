@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Prabuddha De Saram "
+title                    : "Prabuddha"
 title_separator          : "-"
 name                     : &name "Prabuddha De Saram"
-description              : &description "Interested Advance Manufacturing techniques, CNC Machining, Reading Books and Films "
+description              : &description "A Mechanicle Engineer passionate in Manufacturing | Car Enthusiast "
 url                      : https://PrabuddhaDeSaram.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "PrabuddhaDeSaram.github.io"
