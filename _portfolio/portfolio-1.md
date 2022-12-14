@@ -1,6 +1,6 @@
 ---
 title: "Design and Development of Venturi based Automated Paddy Transplanting Machine"
-excerpt: "<br/><img src='/images/arch1.PNG' style='width:60%'>"
+excerpt: "<br/><img src='/images/IMG_20210803_101720.jpg' style='width:60%'>"
 collection: portfolio
 ---
 
@@ -11,4 +11,7 @@ Advisors : Prof. Y.W.R. Amarasinghe<br/>
 paddy verities where dapog transplanters are not suitable)<br/>
 • Comprehensive CFD analysis and optimization of a Venturi based transplanting system<br/>
 • Mechanical system design and multi-body dynamics analysis<br/>
-• Fabrication and field testing of the system<br/><img src='/images/arch1.PNG' style='width:60%'>. 
+• Fabrication and field testing of the system<br/>
+<img src='/images/IMG_20210803_101720.jpg' style='width:50%'>.
+<img src='/images/IMG_20210723_174648.jpg' style='width:50%'>.
+
