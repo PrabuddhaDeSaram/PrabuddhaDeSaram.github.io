@@ -1,16 +1,11 @@
 ---
-title: "Workshop Instructor"
+title: "Temporary Instructor"
 collection: teaching
-type: "Introduction to Robotics Seminar Series, Nalanda College, Colombo 10"
+type: ""
 permalink: /teaching/Robot_workshops.md
-venue: "Nalanda College"
-date: 2018-August to 2019-Jun
-location: "Colombo, Sri Lanka"
+venue: "University of Moratuwa"
+date: 2021-August to 2021-Dec
+location: "Moraatuwa, Sri Lanka"
 ---
 
-I co-initiated the Introduction to Robotics Seminar Series in nalanda college with collaboration of Robotics Society, Nalanda College, Colombo 10.
-Following topics were mainly covered in the seminars.
-
-* Sensors, Actuators and Control
-* Working with Microbit boards
-* Practical Robot Building
+Worked as a instructor at the Department of Mechanica Engineering and carried out practicals in manufacturing related modules.
