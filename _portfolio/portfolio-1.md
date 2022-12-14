@@ -11,8 +11,9 @@ Advisors : Prof. Y.W.R. Amarasinghe<br/>
 paddy verities where dapog transplanters are not suitable). Completed transplanter is shown below<br/>
 
 <br/>
-<img src='/images/IMG_20210803_101720.jpg' style='width:48%' align="left">
 <img src='/images/IMG_20210723_174648.jpg' style='width:48%' align="right">
+<img src='/images/IMG_20210803_101720.jpg' style='width:48%' align="left">
+
 <br/>
 • Comprehensive CFD analysis and optimization of a Venturi based transplanting system<br/>
 • Mechanical system design and multi-body dynamics analysis<br/>
