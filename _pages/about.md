@@ -8,11 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-* I am a Software Engineer at WSO2 working on the development of standard libraries for Ballerina languange. 
-* Previously I was a Data Engineer working on computer vision and data science R&D projects in Axiata Digital Labs, Sri Lanka.
-* My interests generaly align with Robotics, Computer Vision, Collaboration and Collective Behaviour, Autonomous Systems, Machine Learning, and Resource Constrained Enviorenments.
-* Got my B.Sc. in Electronic and Telecommunication Engineering from University of Moratuwa.
-* I enjoy video games, Reading, and Cooking.
+* I am a Mechanical Engineer Interested in Advance Manufacturing, Micro/Nano Electro Mechanical Systems and Automobile Engineering.
+* Currently works at the Sri Lanka's Largest Engine machining Workshop, Diesel & Motor Engineering PLC, Engine Care Unit.
+* I graduated from University of Moratuwa in 2021 with a 1st class for BSc in Mechanical Engineering and with a Minor in Entrepreneurship
+* Additionally doing a part time business in Mechanical Designing & Manufacturing.
 
 <!-- Research Vision & Interests
 ======
