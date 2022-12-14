@@ -36,17 +36,17 @@ author_profile: true
  &nbsp; &nbsp; &thinsp; &thinsp; &thinsp; <i> Organized by the Royal Australian Chemical Institute</i><br/>
 
  
-<span style="font-size:0.9em;padding-left: 8px;text-align: justify"><span style="color:white">a</span><b>Finalists, Xbotix Robotics Competition 2018 </span></b><br />
+<span style="font-size:0.9em;padding-left: 8px;text-align: justify"> <b>Finalists, Xbotix Robotics Competition 2018 </span></b><br />
  &nbsp; &nbsp; &thinsp; &thinsp; &thinsp; <i> Organized by the University of Ruhuna </i><br/>
  
 <span style="font-size:0.9em;padding-left: 8px;text-align: justify"><span style="color:white">a</span><b>Finalists : Sri Lanka Robotics Competition<span style="color:green"> (2018) </span></b><br />
  &nbsp; &nbsp; &thinsp; &thinsp; &thinsp; <i> Organized by the University of Moratuwa </i><br/>
  &nbsp; &nbsp; &thinsp; &thinsp; &thinsp; Moratuwa, Sri Lanka <br/>
  
-<span style="font-size:0.9em;padding-left: 8px;text-align: justify"><span style="color:white">a</span><b>Bronze Medal : Sri Lanka Physics Olympiad Competition<span style="color:green"> (2014) </span></b><br />
+<span style="font-size:0.9em;padding-left: 8px;text-align: justify"> <b>Bronze Medal : Sri Lanka Physics Olympiad Competition<span style="color:green"> (2014) </span></b><br />
  &nbsp; &nbsp; &thinsp; &thinsp; &thinsp; <i> Organized by Institute of Physics, University of Colombo</i><br/>
  
-<span style="font-size:0.9em;padding-left: 8px;text-align: justify"><span style="color:white">a</span><b>Distinction : Sri Lanka Mathematics Olympiad<span style="color:green"> (2014 & 2009) </span></b><br />
+<span style="font-size:0.9em;padding-left: 8px;text-align: justify"> <b>Distinction : Sri Lanka Mathematics Olympiad<span style="color:green"> (2014 & 2009) </span></b><br />
  &nbsp; &nbsp; &thinsp; &thinsp; &thinsp; <i> Organized by Sri Lanka Olympiad Mathematics Foundation </i><br/>
  &nbsp; &nbsp; &thinsp; &thinsp; &thinsp; Sri Lanka <br/>
  
