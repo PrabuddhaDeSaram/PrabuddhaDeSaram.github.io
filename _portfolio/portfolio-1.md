@@ -13,6 +13,6 @@ paddy verities where dapog transplanters are not suitable)<br/>
 • Mechanical system design and multi-body dynamics analysis<br/>
 • Fabrication and field testing of the system<br/>
 <br/>
-<img src='/images/IMG_20210803_101720.jpg' style='width:50%'>.
-<img src='/images/IMG_20210723_174648.jpg' style='width:50%'>.
+<img src='/images/IMG_20210803_101720.jpg' style='width:50%' align="right">.
+<img src='/images/IMG_20210723_174648.jpg' style='width:50%'align="left">.
 
