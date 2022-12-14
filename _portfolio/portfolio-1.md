@@ -16,11 +16,12 @@ paddy verities where dapog transplanters are not suitable). Completed transplant
   </div>
 <div>
   <br/>
-• Comprehensive CFD analysis and optimization of a Venturi based transplanting system<br/>
+• Transplanting venturi valve was optimized through CFD analysis and practical experiments<br/>
   <br/>
 <img src='/images/Picture1.png' style='width:48%' align="left">
   <br/>
  </div>
-• Mechanical system design and multi-body dynamics analysis<br/>
-• Fabrication and field testing of the system<br/>
- 
+ <div>
+• Final system achieved a 92.8% successful transplanting rate<br/>
+ <img src='/images/Picture1.png' style='width:48%' align="left">
+</div>
