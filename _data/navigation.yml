@@ -12,8 +12,8 @@ main:
   - title: "Professional Experience"
     url: /teaching/  
     
-#   - title: "CV"
-#     url: /cv/
+   - title: "CV"
+     url: /cv/
     
   - title: "Scholarships & Awards "
     url: /awards/
