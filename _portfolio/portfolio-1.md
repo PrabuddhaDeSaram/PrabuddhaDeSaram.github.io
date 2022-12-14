@@ -17,8 +17,10 @@ paddy verities where dapog transplanters are not suitable). Completed transplant
 <div>
   <br/>
 • Comprehensive CFD analysis and optimization of a Venturi based transplanting system<br/>
+  <br/>
 <img src='/images/Picture1.png' style='width:48%' align="right">
-
+  <br/>
+ </div>
 • Mechanical system design and multi-body dynamics analysis<br/>
 • Fabrication and field testing of the system<br/>
-  </div>
+ 
