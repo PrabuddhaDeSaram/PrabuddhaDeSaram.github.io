@@ -15,7 +15,7 @@ author_profile: true
  &nbsp; &nbsp; &thinsp; &thinsp; &thinsp; Awarded by the government of Sri Lanka <br/>
 
    
-<span style="font-size:1em;font-family:georgia; color:gray;background-color: #F0F0F0;height: 4em; width: 57em; display:inline-block; vertical-align: middle; padding-top: 22px;padding-left: 8px;text-align: left"><b>Professional Affiliations</b></span><br/>
+<!--<span style="font-size:1em;font-family:georgia; color:gray;background-color: #F0F0F0;height: 4em; width: 57em; display:inline-block; vertical-align: middle; padding-top: 22px;padding-left: 8px;text-align: left"><b>Professional Affiliations</b></span><br/>
 
 <span style="font-size:0.9em;padding-left: 8px;text-align: justify"><b>Student Membership, Institute of Engineers Sri Lanka (IESL)<span style="color:green"> (Since 2020) </span></b><br />
  
@@ -36,7 +36,7 @@ author_profile: true
  &nbsp; &nbsp; &thinsp; &thinsp; &thinsp; <i> Organized by the Royal Australian Chemical Institute</i><br/>
 
  
-<!--<span style="font-size:0.9em;padding-left: 8px;text-align: justify"> <b> Finalists, Xbotix Robotics Competition <span style="color:green"> (2018) </span></b><br />
+<span style="font-size:0.9em;padding-left: 8px;text-align: justify"> <b> Finalists, Xbotix Robotics Competition <span style="color:green"> (2018) </span></b><br />
  &nbsp; &nbsp; &thinsp; &thinsp; &thinsp; <i> Organized by the University of Ruhuna </i><br/>
  
 <span style="font-size:0.9em;padding-left: 8px;text-align: justify"><b>Finalists : Sri Lanka Robotics Competition<span style="color:green"> (2018) </span></b><br />
