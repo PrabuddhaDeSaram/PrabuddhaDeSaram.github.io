@@ -6,6 +6,7 @@ collection: portfolio
 
 Final year Research and Development project: University of Moratuwa, Sri Lanka<br/>
 Advisors : Prof. Y.W.R. Amarasinghe<br/>
+<br/>
 • This project focused to develop a suitable automated paddy transplanting method for Sri Lanka (For short term
 paddy verities where dapog transplanters are not suitable)<br/>
 • Comprehensive CFD analysis and optimization of a Venturi based transplanting system<br/>
