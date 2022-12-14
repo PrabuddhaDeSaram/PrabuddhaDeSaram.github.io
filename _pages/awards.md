@@ -17,22 +17,22 @@ author_profile: true
    
 <span style="font-size:1em;font-family:georgia; color:gray;background-color: #F0F0F0;height: 4em; width: 57em; display:inline-block; vertical-align: middle; padding-top: 22px;padding-left: 8px;text-align: left"><b>Professional Affiliations</b></span><br/>
 
-<span style="font-size:0.9em;padding-left: 8px;text-align: justify"> [1]<span style="color:white">a</span><b>Student Membership, Institute of Engineers Sri Lanka (IESL)<span style="color:green"> (Since 2020) </span></b><br />
+<span style="font-size:0.9em;padding-left: 8px;text-align: justify"><b>Student Membership, Institute of Engineers Sri Lanka (IESL)<span style="color:green"> (Since 2020) </span></b><br />
  
-<span style="font-size:0.9em;padding-left: 8px;text-align: justify"> [2]<span style="color:white">a</span><b>Student Membership, Institute of Mechanical Engineers  (IMechE)<span style="color:green"> (Since 2018) </span></b><br />
+<span style="font-size:0.9em;padding-left: 8px;text-align: justify"><b>Student Membership, Institute of Mechanical Engineers  (IMechE)<span style="color:green"> (Since 2018) </span></b><br />
  
 <span style="font-size:1em;font-family:georgia; color:gray;background-color: #F0F0F0;height: 4em; width: 57em; display:inline-block; vertical-align: middle; padding-top: 22px;padding-left: 8px;text-align: left"><b>Achievements</b></span><br/>
 
-<span style="font-size:0.9em;padding-left: 8px;text-align: justify"> [1]<span style="color:white">a</span><b> University award for Highest Cumilative GPA in Manufacturing Engineering and Computer Aided Designing related modules - University of Moratuwa, Sri Lanka  <span style="color:green"> (2022) </span></b><br />
+<span style="font-size:0.9em;padding-left: 8px;text-align: justify"><b> University award for Highest Cumilative GPA in Manufacturing Engineering and Computer Aided Designing related modules - University of Moratuwa, Sri Lanka  <span style="color:green"> (2022) </span></b><br />
  &nbsp; &nbsp; &thinsp; &thinsp; &thinsp; <i> By the National Development bank of Sri Lanaka </i><br/>
  
-<span style="font-size:0.9em;padding-left: 8px;text-align: justify"> [1]<span style="color:white">a</span><b> Finalists, Sri Lanka Robotics Challenge (SLRC) 2018 <span style="color:green"> (2022) </span></b><br />
+<span style="font-size:0.9em;padding-left: 8px;text-align: justify"><b> Finalists, Sri Lanka Robotics Challenge (SLRC) 2018 <span style="color:green"> (2022) </span></b><br />
  &nbsp; &nbsp; &thinsp; &thinsp; &thinsp; <i> A National Robot Competition Organized by the University of Moratuwa </i><br/>
  
-<span style="font-size:0.9em;padding-left: 8px;text-align: justify"> [1]<span style="color:white">a</span><b> Dean's List in all 1,2,4,7,8 semesters <span style="color:green"> (2021) </span></b><br />
+<span style="font-size:0.9em;padding-left: 8px;text-align: justify"> <b> Dean's List in all 1,2,4,7,8 semesters <span style="color:green"> (2021) </span></b><br />
  &nbsp; &nbsp; &thinsp; &thinsp; &thinsp; <i> University of Moratuwa </i><br/>
  
-<span style="font-size:0.9em;padding-left: 8px;text-align: justify"> [1]<span style="color:white">a</span><b> High Distinction in Australian National Chemistry quiz 2014 (Second best results in the country) <span style="color:green"> (2020) </span></b><br />
+<span style="font-size:0.9em;padding-left: 8px;text-align: justify"><b> High Distinction in Australian National Chemistry quiz 2014 (Second best results in the country) <span style="color:green"> (2020) </span></b><br />
  &nbsp; &nbsp; &thinsp; &thinsp; &thinsp; <i> Organized by the Royal Australian Chemical Institute</i><br/>
 
  
