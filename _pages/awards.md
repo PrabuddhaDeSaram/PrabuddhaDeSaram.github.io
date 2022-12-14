@@ -10,7 +10,7 @@ author_profile: true
 <span style="font-size:1em;font-family:georgia; color:gray;background-color: #F0F0F0;height: 4em; width: 57em; display:inline-block; vertical-align: middle; padding-top: 22px;padding-left: 8px;text-align: left"><b>Scholarships</b></span><br/>
 
 
-<span style="font-size:0.9em;padding-left: 8px;text-align: justify"> [2]<span style="color:white">a</span><b>Full Student Scholarship and Mahapola Scholarship<span style="color:green"> (2016) </span></b><br />
+<span style="font-size:0.9em;padding-left: 8px;text-align: justify"> <b>Full Student Scholarship and Mahapola Scholarship<span style="color:green"> (2016) </span></b><br />
  &nbsp; &nbsp; &thinsp; &thinsp; &thinsp; <i>  To study for the BSc. Eng., University of Moratuwa </i><br/>
  &nbsp; &nbsp; &thinsp; &thinsp; &thinsp; Awarded by the government of Sri Lanka <br/>
 
