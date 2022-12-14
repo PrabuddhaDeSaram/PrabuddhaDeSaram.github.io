@@ -1,4 +1,4 @@
-na# main links links
+# main links links
 main:
   - title: "Publications"
     url: /publications/
@@ -9,11 +9,11 @@ main:
   - title: "Education "
     url: /education/
 
-  - title: "Professional Experience"
+  - title: "Workshops and Sessions"
     url: /teaching/  
     
-   - title: "CV"
-     url: /cv/
+#   - title: "CV"
+#     url: /cv/
     
   - title: "Scholarships & Awards "
     url: /awards/
@@ -21,4 +21,6 @@ main:
 #   - title: "Guide"
 #     url: /markdown/
     
+   
+
    
