@@ -21,6 +21,10 @@ paddy verities where dapog transplanters are not suitable). Completed transplant
 <img src='/images/Picture1.png' style='width:48%' align="left">
   <br/>
  </div>
+ <div class="sb sb-2">
+      <small>section break 2</small>
+      <hr class="section-break-2" />
+    </div>
  <div>
 • Final system achieved a 92.8% successful transplanting rate<br/>
  <img src='/images/Screenshot 2022-12-14 212140.png' style='width:100%' align="left">
