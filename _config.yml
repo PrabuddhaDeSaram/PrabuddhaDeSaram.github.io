@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Sahan Hemachandra "
+title                    : "Prabuddha De Saram "
 title_separator          : "-"
-name                     : &name "Sahan Hemachandra"
-description              : &description "Love Robotics, Algorithms, Reading Books and Games "
-url                      : https://sahanhe.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Prabuddha De Saram"
+description              : &description "Interested Advance Manufacturing techniques, CNC Machining, Reading Books and Films "
+url                      : https://PrabuddhaDeSaram.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "sahanhe.github.io"
+repository               : "PrabuddhaDeSaram.github.io"
 teaser                   : #"1532384989214.jpg"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Sahan Hemachandra"
+  name             : "Prabuddha De Saram"
   avatar           : "1532384989214.jpg"
-  bio              : "Robotics Lover, Reader and Gamer"
+  bio              : "Person interested in Advance Manufacturing, CNC Machining and Films "
   location         : "Sri Lanka"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=0_2AvCIAAAAJ"
   email            : sahanhemachandra@gmail.com
-  researchgate     : "https://www.researchgate.net/profile/Sahan-Hemachandra" # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : #"https://www.researchgate.net/profile/Sahan-Hemachandra" # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "sahanHe"
+  github           : "PrabuddhaDeSaram"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : sahan-hemachandra-2a3801164
+  linkedin         : ra-2a3801164
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
