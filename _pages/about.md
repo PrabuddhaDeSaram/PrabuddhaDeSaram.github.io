@@ -9,9 +9,9 @@ redirect_from:
 ---
 
 * I am a Mechanical Engineer Interested in Advance Manufacturing, Micro/Nano Electro Mechanical Systems and Automobile Engineering.
-* Currently works at the Sri Lanka's Largest Engine machining Workshop, Diesel & Motor Engineering PLC, Engine Care Unit.
-* I graduated from University of Moratuwa in 2021 with a 1st class for BSc in Mechanical Engineering and with a Minor in Entrepreneurship
-* Additionally doing a part time business in Mechanical Designing & Manufacturing.
+* Works as the Service Engineer at the Sri Lanka's Largest Engine machining Workshop, Diesel & Motor Engineering PLC, Engine Care Unit.
+* Graduated from University of Moratuwa in 2021 with a 1st class for BSc(Hons) in Mechanical Engineering and a Minor in Entrepreneurship
+* Doing a part time business in Mechanical Designing & Manufacturing.
 
 <!-- Research Vision & Interests
 ======
