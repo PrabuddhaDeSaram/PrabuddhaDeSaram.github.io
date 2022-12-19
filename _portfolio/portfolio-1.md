@@ -1,5 +1,5 @@
 ---
-title: "Two collaborating robotic platforms for Sri Lanka Robotics Challenge 2018"
+title: "Design and Development of Venturi based Automated Paddy Transplanting Machine"
 excerpt: "This project aimed to solve the Mechanization deficit in Paddy Transplanting in Sri Lanka <br/><img src='/images/SLRC_vid.gif' style='width:60%'>"
 collection: portfolio
 ---
