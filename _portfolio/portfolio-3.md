@@ -27,4 +27,11 @@ Advisors : Prof. Y.W.R. Amarasinghe<br/>
      <img src="/images/Capture 8.JPG" style='width:40%' /> 
      <p id="text">Pressure sensing diaphragm displacement simulations</p> 
  </div>
+   <br/>
+• Fabrication procedure and masks were designed<br/>
+  <br/>    
+       <div id="container"> 
+     <img src="/images/Capture 9.JPG" style='width:40%' /> 
+     <p id="text">Designed mask for pressure sensing diaphragm</p> 
+ </div>
 
