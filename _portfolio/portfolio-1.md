@@ -21,9 +21,12 @@ paddy verities where dapog transplanters are not suitable). Completed transplant
      <img src="/images/Picture1.png" style='width:60%' /> 
      <p id="text">• Final system achieved a 92.8% successful transplanting rate</p> 
  </div>
- <div>
- <img src='/images/Screenshot 2022-12-14 212140.png' style='width:100%' align="left">
-</div>
+ 
+  
+  <div id="container"> 
+     <img src="/images/Screenshot 2022-12-14 212140.png" style='width:60%' /> 
+     <p id="text">Tansplanted Seedling using the final system</p> 
+ </div>
 <!-- ---
 title: "Design and Development of Venturi based Automated Paddy Transplanting Machine"<br/>
 excerpt: "This project aimed to solve the Mechanization deficit in Paddy Transplanting in Sri Lanka <br/><img src='/images/IMG_20210803_101720.jp' style='width:60%'>"
