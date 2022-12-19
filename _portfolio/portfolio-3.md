@@ -18,13 +18,13 @@ Advisors : Prof. Y.W.R. Amarasinghe<br/>
 • Capacitive pressure sensing element was used for pressure sensing<br/>
   <br/>
    <div id="container"> 
-     <img src="/images/Capture 7.JPG" style='width:60%' /> 
+     <img src="/images/Capture 7.JPG" style='width:40%' /> 
      <p id="text">• Multi physics simulations were carried out to validate the function (COMSOL Multiphysics was used for simulations)</p> 
  </div>
  
   
   <div id="container"> 
-     <img src="/images/Capture 8.JPG" style='width:60%' /> 
+     <img src="/images/Capture 8.JPG" style='width:40%' /> 
      <p id="text">Pressure sensing diaphragm displacement simulations</p> 
  </div>
 
