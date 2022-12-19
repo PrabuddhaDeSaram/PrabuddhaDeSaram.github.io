@@ -8,7 +8,7 @@ Slef initiated individual project, Sri Lanka<br/>
 • CNC Milling Machine with 300mm x 300mm x 200mm bed size was developed <br/>
 <br/>
 <div>
-<img src='/images/IMG_20210316_231110.jpg' style='width:48%' align="left">
+<img src='/images/IMG_20210316_231110.jpg' style='width:60%' align="left">
   </div>
 <div>
   <br/>
