@@ -5,7 +5,7 @@ collection: portfolio
 ---
 Module project: University of Moratuwa, Sri Lanka<br/>
 Advisors : Prof. Y.W.R. Amarasinghe<br/>
-<br/
+<br/>
 • Maximum Bubble pressure based surface tension sensor was designed and validated through simulations in this projects. Concept of the sensor is shown below<br/>
 <br/>
 <div id="container"> 
