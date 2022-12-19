@@ -1,17 +1,14 @@
 ---
 title: "Design and Development of Low Cost 4 axis CNC Milling Machine"
-excerpt: "This project was a self initiated project to develop a CNC milling machine with capability of steel machining <br/><img src='/images/IMG_20210803_101720.jpg' style='width:60%'>"
+excerpt: "This project was a self initiated project to develop a CNC milling machine with capability of steel machining <br/><img src='/images/IMG_20210316_231110.jpg' style='width:60%'>"
 collection: portfolio
 ---
-Final year Research and Development project: University of Moratuwa, Sri Lanka<br/>
-Advisors : Prof. Y.W.R. Amarasinghe<br/>
+Slef initiated individual project, Sri Lanka<br/>
 <br/>
-• This project focused to develop a suitable automated paddy transplanting method for Sri Lanka (For short term
-paddy verities where dapog transplanters are not suitable). Completed transplanter is shown below<br/>
+• CNC Milling Machine with 300mm x 300mm x 200mm bed size was developed <br/>
 <br/>
 <div>
-<img src='/images/IMG_20210723_174648.jpg' style='width:48%' align="right">
-<img src='/images/IMG_20210803_101720.jpg' style='width:48%' align="left">
+<img src='/images/IMG_20210316_231110.jpg' style='width:48%' align="right">
   </div>
 <div>
   <br/>
