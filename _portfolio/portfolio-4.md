@@ -7,11 +7,12 @@ Slef initiated individual project, Sri Lanka<br/>
 <br/>
 • CNC Milling Machine with 300mm x 300mm x 200mm bed size was developed <br/>
 <br/>
-<div>
-<img src='/images/IMG_20210316_231110.jpg' style='width:60%' align="left">
-  </div>
-<div>
-• Final system was able to machine mild steel with 0.02 mm accuracy <br/>
+ <div id="container"> 
+     <img src="/images/IMG_20211128_154011.jpg" style='width:60%' /> 
+     <p id="text">• Final system was able to machine mild steel with 0.02 mm accuracy <br/> text!</p> 
+ </div>
+
+
  <div id="container"> 
      <img src="/images/IMG_20211128_154011.jpg" style='width:60%' /> 
      <p id="text">oooh look! text!</p> 
