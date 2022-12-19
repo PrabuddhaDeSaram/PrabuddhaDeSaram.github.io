@@ -1,6 +1,6 @@
 ---
-title: "Design and Development of Venturi based Automated Paddy Transplanting Machine"
-excerpt: "This project aimed to solve the Mechanization deficit in Paddy Transplanting in Sri Lanka <br/><img src='/images/IMG_20210803_101720.jpg' style='width:60%'>"
+title: "Design and Development of Low Cost 4 axis CNC Milling Machine"
+excerpt: "This project was a self initiated project to develop a CNC milling machine with capability of steel machining <br/><img src='/images/IMG_20210803_101720.jpg' style='width:60%'>"
 collection: portfolio
 ---
 Final year Research and Development project: University of Moratuwa, Sri Lanka<br/>
