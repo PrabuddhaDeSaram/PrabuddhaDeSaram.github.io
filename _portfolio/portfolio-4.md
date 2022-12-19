@@ -15,7 +15,7 @@ Slef initiated individual project, Sri Lanka<br/>
 
  <div id="container"> 
      <img src="/images/IMG_20211128_154011.jpg" style='width:60%' /> 
-     <p id="text">A bronze wheel machined for a custom lock text!</p> 
+     <p id="text">A bronze wheel machined for a custom lock</p> 
  </div>
   <div id="container"> 
      <img src="/images/IMG_20210522_214828.jpg" style='width:60%' /> 
