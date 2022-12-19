@@ -8,11 +8,11 @@ Slef initiated individual project, Sri Lanka<br/>
 • CNC Milling Machine with 300mm x 300mm x 200mm bed size was developed <br/>
 <br/>
 <div>
-<img src='/images/IMG_20210316_231110.jpg' style='width:48%' align="right">
+<img src='/images/IMG_20210316_231110.jpg' style='width:48%' align="left">
   </div>
 <div>
   <br/>
-• Transplanting venturi valve was optimized through CFD analysis and practical experiments<br/>
+• Final system was able to machine mild steel with 0.02 mm accuracy <br/>
   <br/>
 <img src='/images/Picture1.png' style='width:48%' align="left">
   <br/>
