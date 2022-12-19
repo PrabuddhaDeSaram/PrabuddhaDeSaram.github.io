@@ -9,7 +9,7 @@ Slef initiated individual project, Sri Lanka<br/>
 <br/>
  <div id="container"> 
      <img src="/images/IMG_20210316_231110.jpg" style='width:60%' /> 
-     <p id="text">• Final system was able to machine mild steel with 0.02 mm accuracy <br/> text!</p> 
+     <p id="text">• Final system was able to machine mild steel with 0.02 mm accuracy <br/></p> 
  </div>
 
 
@@ -17,20 +17,7 @@ Slef initiated individual project, Sri Lanka<br/>
      <img src="/images/IMG_20211128_154011.jpg" style='width:60%' /> 
      <p id="text">A bronze wheel machined for a custom lock text!</p> 
  </div>
-  
-
-  <br/>
-<img src='/images/IMG_20211128_154011.jpg' style='width:48%' align="left">
-  <br/>
+  <div id="container"> 
+     <img src="/images/IMG_20210522_214828.jpg" style='width:60%' /> 
+     <p id="text">Parts machine for final year project</p> 
  </div>
-   <br/>
- <div>
-• Final system achieved a 92.8% successful transplanting rate<br/>
- <img src='/images/Screenshot 2022-12-14 212140.png' style='width:100%' align="left">
-</div>
-<!-- ---
-title: "Design and Development of Venturi based Automated Paddy Transplanting Machine"<br/>
-excerpt: "This project aimed to solve the Mechanization deficit in Paddy Transplanting in Sri Lanka <br/><img src='/images/IMG_20210803_101720.jp' style='width:60%'>"
-
-collection: portfolio
----  -->
