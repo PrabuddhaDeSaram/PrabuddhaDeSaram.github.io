@@ -1,6 +1,6 @@
 ---
 title: "Design and Development of Low Cost 4 axis CNC Milling Machine"
-excerpt: "This project was a self initiated project to develop a CNC milling machine with capability of steel machining <br/><img src='/images/IMG_20210316_231110.jpg' style='width:60%'>"
+excerpt: "This project was a self initiated project to develop a CNC milling machine with capability of steel machining <br/> <br/><img src='/images/IMG_20210316_231110.jpg' style='width:60%'>"
 collection: portfolio
 ---
 Slef initiated individual project, Sri Lanka<br/>
