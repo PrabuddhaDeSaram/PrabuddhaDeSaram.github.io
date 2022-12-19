@@ -1,6 +1,7 @@
 ---
 title: "Design and Development of Venturi based Automated Paddy Transplanting Machine"<br/>
-excerpt: "This project aimed to solve the Mechanization deficit in Paddy Transplanting in Sri Lanka<br/> <img src='/images/IMG_20210803_101720.jpg' style='width:60%'>"
+excerpt: "This project aimed to solve the Mechanization deficit in Paddy Transplanting in Sri Lanka <br/><img src='/images/IMG_20210803_101720.jp' style='width:60%'>"
+
 collection: portfolio
 ---
 
