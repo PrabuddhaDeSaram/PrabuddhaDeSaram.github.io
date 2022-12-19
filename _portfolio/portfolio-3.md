@@ -1,6 +1,6 @@
 ---
 title: "Design and Simulation of a MEMS Surface tension sensor"
-excerpt: "Maximum Bubble pressure based surface tension sensor was designed and validated through simulations in this projects <br/><br/><img src='/images/IMG_20210803_101720.jpg' style='width:60%'>"
+excerpt: "Maximum Bubble pressure based surface tension sensor was designed and validated through simulations in this projects <br/><br/><img src='/images/Capture 10.JPG' style='width:60%'>"
 collection: portfolio
 ---
 Module project: University of Moratuwa, Sri Lanka<br/>
