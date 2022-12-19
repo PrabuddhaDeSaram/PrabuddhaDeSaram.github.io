@@ -1,6 +1,6 @@
 ---
 title: "Two collaborating robotic platforms for Sri Lanka Robotics Challenge 2018"
-excerpt: "This project aimed to solve the Mechanization deficit in Paddy Transplanting in Sri Lanka [here](https://www.dropbox.com/s/8y5vm5q7s89gh21/SLRC%201st%20round.mp4?dl=0) <br/><img src='/images/SLRC_vid.gif' style='width:60%'>"
+excerpt: "This project aimed to solve the Mechanization deficit in Paddy Transplanting in Sri Lanka <br/><img src='/images/SLRC_vid.gif' style='width:60%'>"
 collection: portfolio
 ---
 Final year Research and Development project: University of Moratuwa, Sri Lanka<br/>
