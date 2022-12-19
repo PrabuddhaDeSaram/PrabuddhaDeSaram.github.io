@@ -7,7 +7,7 @@ author_profile: true
 {% include base_path %}
 
 
-<span style="font-size:0.9em;text-align: justify;">My education details can also be found on my <a href="https://www.linkedin.com/in/sahan-hemachandra-2a3801164/">LinkedIn</a> profile.</span>
+<span style="font-size:0.9em;text-align: justify;">My education details can also be found on my <a href="https://www.linkedin.com/in/prabuddha-methsith-de-saram-2a0828172/">LinkedIn</a> profile.</span>
 
 <span style="font-size:1em;font-family:georgia; color:gray;background-color: #F0F0F0;height: 4em; width: 57em; display:inline-block; vertical-align: middle; padding-top: 22px;padding-left: 8px;text-align: left"><b>B.Sc.(Hons) in Mechanical Engineering | Minor in Entrepreneurship | University of Moratuwa </b></span><br/>
 CGPA - 3.92 | First Class Honours
