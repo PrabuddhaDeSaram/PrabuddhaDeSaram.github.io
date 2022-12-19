@@ -13,7 +13,7 @@ Slef initiated individual project, Sri Lanka<br/>
 <div>
 
  <div id="container"> 
-     <img src="/images/IMG_20211128_154011.jpg" /> 
+     <img src="/images/IMG_20211128_154011.jpg" style='width:60%' /> 
      <p id="text">oooh look! text!</p> 
  </div>
   
