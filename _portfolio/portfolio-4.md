@@ -12,9 +12,11 @@ Slef initiated individual project, Sri Lanka<br/>
   </div>
 <div>
   <br/>
+   <br/>
+   <br/>
 • Final system was able to machine mild steel with 0.02 mm accuracy <br/>
   <br/>
-<img src='/images/Picture1.png' style='width:48%' align="left">
+<img src='/ IMG_20211128_154011.jpg' style='width:48%' align="left">
   <br/>
  </div>
    <br/>
