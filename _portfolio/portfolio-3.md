@@ -18,18 +18,13 @@ Advisors : Prof. Y.W.R. Amarasinghe<br/>
 • Capacitive pressure sensing element was used for pressure sensing<br/>
   <br/>
    <div id="container"> 
-     <img src="/images/Picture1.png" style='width:60%' /> 
-     <p id="text">• Multi physics simulations were carried out to validate the function (COMSOL was used)</p> 
+     <img src="/images/Capture 7.JPG" style='width:60%' /> 
+     <p id="text">• Multi physics simulations were carried out to validate the function (COMSOL Multiphysics was used for simulations)</p> 
  </div>
  
   
   <div id="container"> 
-     <img src="/images/Screenshot 2022-12-14 212140.png" style='width:60%' /> 
-     <p id="text">Tansplanted Seedling using the final system</p> 
+     <img src="/images/Capture 8.JPG" style='width:60%' /> 
+     <p id="text">Pressure sensing diaphragm displacement simulations</p> 
  </div>
-<!-- ---
-title: "Design and Development of Venturi based Automated Paddy Transplanting Machine"<br/>
-excerpt: "This project aimed to solve the Mechanization deficit in Paddy Transplanting in Sri Lanka <br/><img src='/images/IMG_20210803_101720.jp' style='width:60%'>"
 
-collection: portfolio
----  -->
