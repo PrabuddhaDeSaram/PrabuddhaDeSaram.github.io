@@ -1,18 +1,15 @@
 ---
+layout: single
 title: "Research & Publications"
 permalink: /publications/
 author_profile: true
 ---
 
-My research spans advanced manufacturing, microfabrication, microfluidics, surface engineering, wearable biosensing, and cell mechanobiology. The publications below include first-author and collaborative research outputs across these areas.
+My research spans advanced manufacturing, microfabrication, microfluidics, surface engineering, wearable biosensing, and cell mechanobiology.
 
-<div class="portfolio-links">
-<a href="https://scholar.google.com/citations?user=6gsb6rkAAAAJ&hl=en">View Google Scholar Profile</a>
-</div>
+[View my Google Scholar profile](https://scholar.google.com/citations?user=6gsb6rkAAAAJ&hl=en)
 
 ## First-Author Publications
-
-<div class="publication-list" markdown="1">
 
 1. **De Saram, P., Nguyen, N.T., & Kashaninejad, N. (2026).** “Influence of Micropillar Height Modulation on Droplet Evaporation and Wetting State Transitions.” *Advanced Materials Interfaces*, 13(3), e00577.
 
@@ -20,11 +17,7 @@ My research spans advanced manufacturing, microfabrication, microfluidics, surfa
 
 3. **De Saram, P., Nguyen, N.T., Jamali, S., & Kashaninejad, N. (2025).** “Micropillars in Cell Mechanobiology: Design, Fabrication, Characterization, and Biosensing Applications.” *Small Science*, 5(4), 2400410.
 
-</div>
-
 ## Collaborative Publications
-
-<div class="publication-list" markdown="1">
 
 1. **Bakare, P., De Saram, P., Ha, N., Nguyen, N.T., & Kashaninejad, N. (2026).** “Enhanced Passive Micromixing via Asymmetric Height-Variable Micropillar Arrays at Low Reynolds Numbers.” *Chemical Engineering Journal*, 177622.
 
@@ -35,8 +28,6 @@ My research spans advanced manufacturing, microfabrication, microfluidics, surfa
 4. **El Zoudani, E., De Saram, P., Engel, K., Nguyen, N.T., & Kashaninejad, N. (2025).** “Microneedle–Tissue Interaction Across Varying Biological and Mechanical Conditions.” *Biosensors*, 15(8), 521.
 
 5. **Kashaninejad, N., De Saram, P., Abdelfattah, A., Bakare, A., & Vu, H.V. (2025).** “Wearable Biosensors for Cancer Detection and Monitoring.” *Progress in Molecular Biology and Translational Science*, 215, 311–354.
-
-</div>
 
 ## Earlier Engineering Publication
 
