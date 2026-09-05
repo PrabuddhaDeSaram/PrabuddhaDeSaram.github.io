@@ -1,3 +1,4 @@
+---
 layout: archive
 title: "Curriculum Vitae"
 permalink: /cv/
@@ -6,6 +7,6 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+A concise overview of my engineering and research experience is available through the [Experience](/experience/), [Education](/education/), [Projects](/projects/), and [Research & Publications](/publications/) pages.
 
-<span style="font-size:0.9em;text-align: justify;"> <a href="https://sahanhe.github.io/files/CV_updated.pdf">My Updated Curriculum Vitae [PDF]</a></span>
+For professional enquiries, please contact me at [desaramprabuddha@gmail.com](mailto:desaramprabuddha@gmail.com).
