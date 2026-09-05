@@ -1,4 +1,4 @@
-/* Modern portfolio refinements */
+/* Modern responsive portfolio refinements */
 
 $portfolio-blue: #1f4668;
 $portfolio-blue-dark: #17364f;
@@ -6,19 +6,35 @@ $portfolio-bg: #f6f8fb;
 $portfolio-border: #e4e9ef;
 $portfolio-muted: #66717d;
 
-html {
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  width: 100%;
+  max-width: 100%;
+  overflow-x: hidden;
   background: $portfolio-bg;
 }
 
 body {
-  background: $portfolio-bg;
   color: #26323d;
   line-height: 1.68;
+}
+
+img,
+video,
+iframe,
+svg {
+  max-width: 100%;
+  height: auto;
 }
 
 a {
   color: $portfolio-blue;
   text-decoration: none;
+  overflow-wrap: anywhere;
   transition: color 0.2s ease;
 
   &:hover {
@@ -28,12 +44,22 @@ a {
 }
 
 .masthead {
+  width: 100%;
   background: rgba(255, 255, 255, 0.98);
   border-bottom: 1px solid $portfolio-border;
   box-shadow: 0 2px 10px rgba(24, 45, 64, 0.05);
 }
 
+.masthead__inner-wrap,
+#main {
+  width: calc(100% - 2rem);
+  max-width: 1280px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 .greedy-nav {
+  max-width: 100%;
   background: transparent;
 
   a {
@@ -46,8 +72,21 @@ a {
   }
 }
 
+#main {
+  display: block;
+  padding-left: 0;
+  padding-right: 0;
+}
+
+.sidebar {
+  box-sizing: border-box;
+}
+
 .page,
 .archive {
+  box-sizing: border-box;
+  min-width: 0;
+  max-width: 100%;
   background: #fff;
   border: 1px solid $portfolio-border;
   border-radius: 10px;
@@ -56,13 +95,23 @@ a {
   margin-top: 1.5rem;
 }
 
+.page__inner-wrap,
+.page__content,
+.archive {
+  min-width: 0;
+  max-width: 100%;
+}
+
 .page__title,
 .archive .page__title {
   color: #1c2b38;
   letter-spacing: -0.02em;
+  overflow-wrap: break-word;
 }
 
 .page__content {
+  overflow-wrap: break-word;
+
   h2 {
     margin-top: 2.15rem;
     padding-bottom: 0.45rem;
@@ -84,6 +133,13 @@ a {
     border-radius: 8px;
     box-shadow: 0 4px 18px rgba(28, 43, 56, 0.08);
   }
+
+  table {
+    display: block;
+    width: 100%;
+    max-width: 100%;
+    overflow-x: auto;
+  }
 }
 
 .author__avatar img {
@@ -101,9 +157,13 @@ a {
 }
 
 .list__item {
+  width: 100%;
+  max-width: 100%;
   margin-bottom: 1.1rem;
 
   .archive__item {
+    width: 100%;
+    max-width: 100%;
     padding: 1.15rem 1.25rem;
     background: #fbfcfd;
     border: 1px solid $portfolio-border;
@@ -134,6 +194,8 @@ a {
 }
 
 .portfolio-hero {
+  width: 100%;
+  max-width: 100%;
   margin: -0.25rem 0 2rem;
   padding: 2rem 2.1rem;
   background: linear-gradient(135deg, #f4f8fb 0%, #eef4f8 100%);
@@ -163,6 +225,7 @@ a {
 
 .portfolio-links a {
   display: inline-block;
+  max-width: 100%;
   padding: 0.52rem 0.82rem;
   background: #fff;
   border: 1px solid #cfdbe4;
@@ -175,23 +238,118 @@ a {
   border-color: #9fb6c7;
 }
 
-.publication-list li {
-  margin-bottom: 1rem;
-}
-
 .page__footer {
+  width: 100%;
   background: #edf2f6;
   color: #596673;
 }
 
-@media (max-width: 767px) {
+@media (min-width: 925px) {
+  .sidebar {
+    width: 22%;
+    max-width: 250px;
+    padding-right: 1.5rem;
+  }
+
   .page,
   .archive {
-    padding: 1.35rem 1.15rem;
+    float: right;
+    width: calc(78% - 1rem);
+    max-width: calc(100% - 270px);
+    padding-right: 2.25rem;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 924px) {
+  .sidebar {
+    width: 25%;
+    max-width: 210px;
+    padding-right: 1rem;
+  }
+
+  .page,
+  .archive {
+    float: right;
+    width: calc(75% - 0.5rem);
+    max-width: calc(100% - 220px);
+    padding: 1.75rem;
+  }
+}
+
+@media (max-width: 767px) {
+  .masthead__inner-wrap,
+  #main {
+    width: calc(100% - 1rem);
+    max-width: 100%;
+  }
+
+  #main {
+    padding-top: 0.5rem;
+  }
+
+  .sidebar {
+    float: none;
+    width: 100%;
+    max-width: 100%;
+    margin: 0 0 0.75rem;
+    padding: 0;
+  }
+
+  .page,
+  .archive {
+    float: none;
+    width: 100%;
+    max-width: 100%;
+    margin: 0.75rem 0 1rem;
+    padding: 1.25rem 1rem;
     border-radius: 7px;
   }
 
   .portfolio-hero {
-    padding: 1.35rem 1.25rem;
+    padding: 1.25rem 1rem;
+    margin-bottom: 1.4rem;
+  }
+
+  .portfolio-hero h2 {
+    font-size: 1.35em;
+    line-height: 1.3;
+  }
+
+  .portfolio-links {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 0.5rem;
+  }
+
+  .portfolio-links a {
+    width: 100%;
+    text-align: center;
+  }
+
+  .page__content h2 {
+    font-size: 1.3em;
+  }
+
+  .page__content ol,
+  .page__content ul {
+    padding-left: 1.3rem;
+  }
+}
+
+@media (max-width: 420px) {
+  .masthead__inner-wrap,
+  #main {
+    width: calc(100% - 0.6rem);
+  }
+
+  .page,
+  .archive {
+    padding: 1rem 0.85rem;
+    border-left: 0;
+    border-right: 0;
+  }
+
+  .page__title {
+    font-size: 1.6em;
   }
 }
