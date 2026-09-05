@@ -1,37 +1,29 @@
 ---
-title: "Design and Simulation of a MEMS Surface tension sensor"
-excerpt: "Maximum Bubble pressure based surface tension sensor was designed and validated through simulations in this projects <br/><br/><img src='/images/Capture 10.JPG' style='width:60%'>"
+title: "Design and Simulation of a MEMS Surface-Tension Sensor"
+excerpt: "MEMS sensor design project using a maximum-bubble-pressure concept, capacitive pressure sensing, multiphysics simulation, and microfabrication process planning.<br/><br/><img src='/images/Capture 10.JPG' style='width:60%'>"
 collection: portfolio
 ---
-Module project: University of Moratuwa, Sri Lanka<br/>
-Advisors : Prof. Y.W.R. Amarasinghe<br/>
-<br/>
-• Maximum Bubble pressure based surface tension sensor was designed and validated through simulations in this projects. Concept of the sensor is shown below<br/>
-<br/>
-<div id="container"> 
-     <img src="/images/Capture 4.JPG" style='width:70%' /> 
-     <p id="text">Pressure sensing diaphragm is located in between two fluids in order to cancel out errors from static pressures</p> 
- </div>
 
-<div>
-  <br/>
-• Capacitive pressure sensing element was used for pressure sensing<br/>
-  <br/>
-   <div id="container"> 
-     <img src="/images/Capture 7.JPG" style='width:40%' /> 
-     <p id="text">• Multi physics simulations were carried out to validate the function (COMSOL Multiphysics was used for simulations)</p> 
- </div>
- 
-  
-  <div id="container"> 
-     <img src="/images/Capture 8.JPG" style='width:40%' /> 
-     <p id="text">Pressure sensing diaphragm displacement simulations</p> 
- </div>
-   <br/>
-• Fabrication procedure and masks were designed<br/>
-  <br/>    
-       <div id="container"> 
-     <img src="/images/Capture 9.JPG" style='width:40%' /> 
-     <p id="text">Designed mask for pressure sensing diaphragm</p> 
- </div>
+**Project type:** Mechanical engineering module project, University of Moratuwa, Sri Lanka  
+**Advisor:** Prof. Y.W.R. Amarasinghe
 
+This project explored a MEMS-based surface-tension sensor using the maximum bubble pressure method. The work combined sensor concept development, mechanical design, multiphysics simulation, and microfabrication planning.
+
+### Engineering scope
+
+- Developed a maximum-bubble-pressure-based sensing concept for surface-tension measurement.
+- Designed a capacitive pressure-sensing element with the sensing diaphragm positioned between two fluids to reduce the influence of static-pressure effects.
+- Used **COMSOL Multiphysics** to evaluate the coupled behaviour and diaphragm displacement of the proposed sensor.
+- Developed the proposed fabrication sequence and associated microfabrication mask designs.
+
+<img src='/images/Capture 4.JPG' style='width:70%'>
+*Conceptual arrangement of the pressure-sensing diaphragm.*
+
+<img src='/images/Capture 7.JPG' style='width:45%'>
+*Multiphysics simulation of the sensor concept.*
+
+<img src='/images/Capture 8.JPG' style='width:45%'>
+*Pressure-sensing diaphragm displacement analysis.*
+
+<img src='/images/Capture 9.JPG' style='width:45%'>
+*Example mask design developed for the pressure-sensing structure.*
